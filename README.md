@@ -27,6 +27,9 @@ About Text Here
 </ul>
 
 ## Installation
+```
+composer create-project --prefer-dist cretueusebiu/laravel-vue-spa
+```
 <ul>
 <li><code>composer create-project --prefer-dist cretueusebiu/laravel-vue-spa</code></li>
 <li>Edit <code>.env</code> and set your database connection details</li>
