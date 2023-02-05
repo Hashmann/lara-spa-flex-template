@@ -1,4 +1,4 @@
-<h1 align="center">Laravel + Vue SPA template</h1>
+<h1 align="center">Laravel + Vue SPA template | <p style="color:red">in progress...</p></h1>
 
 <p align="center">
       <img src="Project Logo Url" width="726">
