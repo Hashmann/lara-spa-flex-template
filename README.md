@@ -1,7 +1,8 @@
 <h1 align="center">Laravel + Vue SPA template | <a style="color:red">IN PROGRESS...</a></h1>
 
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <!-- <img src="Project Logo Url" width="726"> -->
+      <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400">
 </p>
 
 <p align="center">
@@ -48,33 +49,9 @@ composer create-project --prefer-dist cretueusebiu/laravel-vue-spa
 ##Testing
 
 
-
-
-
-
 ## Developers
 
 - [Delevoper Name](GitHub Profile Link)
-
-## License
-
-
-
-
-
-
-
-
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-
-
-- **[Cubet Techno Labs](https://cubettech.com)**
-
 
 ## License
 
